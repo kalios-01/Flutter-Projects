@@ -6,13 +6,9 @@ Welcome to my Flutter project portfolio! 🚀 Explore my projects and learn the 
 
 ## 📋 Projects List  
 
-### 1. 🧮 [BMI Calculator](#bmi-calculator)  
-- **Description**: A clean and modern BMI calculator app with an interactive UI. Helps users calculate their Body Mass Index based on input weight and height.  
-- **Learning Outcomes**:  
-  - **🎨 UI Design**: Designed custom widgets and implemented a user-friendly interface.  
-  - **📱 Responsive Design**: Built layouts adaptable to different screen sizes.  
-  - **⚙️ State Management**: Used setState to handle dynamic inputs and outputs.  
+### 1. 🧮 [FlipCard]    
 - **[🔗 Repository](https://github.com/kalios-01/BmiCalculator.git)**  
+- **[🔗 GooglePlay](https://play.google.com/store/apps/details?id=com.kaliostech.flipcard)**  
 
 ---
 
